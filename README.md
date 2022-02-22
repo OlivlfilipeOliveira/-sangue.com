@@ -1,17 +1,16 @@
 # sangueom
 
-A new Flutter project.
++Sangue.com
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Dupla: Jean Souza e Filipe Oliveira
 
-A few resources to get you started if this is your first Flutter project:
+Um aplicativo para incentivar a doação de sangue…
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Padrões utilizados:
+ - Template Method - Comportamental; 
+ - Factory Method - Criacional;
+ - Strategy - Comportamental.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# -sangue.com
+Displina: Engenharia de Software para Dispositivos Móveis
